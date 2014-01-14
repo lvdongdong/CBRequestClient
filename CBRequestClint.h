@@ -1,2 +1,2 @@
-@interface create CBRequestClint.h
+@interface CBRequestClint:NSObject
 @end
